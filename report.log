@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.23)  21 AUG 2016 21:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.23)  21 AUG 2016 23:55
 entering extended mode
 **./report.tex
 (report.tex
@@ -10,8 +10,8 @@ ticle.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 
 ("C:\Users\Koustubh Dwivedy\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\si
-ze11.clo"
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+ze10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -24,38 +24,119 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
+)
+("C:\Users\Koustubh Dwivedy\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Koustubh Dwivedy\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Koustubh Dwivedy\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Koustubh Dwivedy\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Users\Koustubh Dwivedy\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00mikte
+x\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Users\Koustubh Dwivedy\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-
+def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Users\Koustubh Dwivedy\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\Koustubh Dwivedy\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
 ) (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
- [1
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+("C:\Users\Koustubh Dwivedy\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\
+supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) [1
 
 {C:/Users/Koustubh Dwivedy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] 
-(report.aux) ) 
+(report.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [1] <images/location.jpg, id=12, 673.01437pt x 542.77782pt>
+File: images/location.jpg Graphic file (type jpg)
+
+<use images/location.jpg>
+Package pdftex.def Info: images/location.jpg used on input line 31.
+(pdftex.def)             Requested size: 269.20097pt x 217.10727pt.
+ [2 <./images/location.jpg>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [3] (report.aux) ) 
 Here is how much of TeX's memory you used:
- 203 strings out of 493634
- 2231 string characters out of 3130749
- 52604 words of memory out of 3000000
- 3674 multiletter control sequences out of 15000+200000
- 3940 words of font info for 15 fonts, out of 3000000 for 9000
+ 1119 strings out of 493634
+ 15309 string characters out of 3130749
+ 70387 words of memory out of 3000000
+ 4548 multiletter control sequences out of 15000+200000
+ 5505 words of font info for 20 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 21i,4n,19p,115b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Koustubh Dwivedy/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on report.pdf (1 page, 15045 bytes).
+ 27i,7n,19p,848b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Koustubh Dwivedy/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Koustubh Dwivedy/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Ko
+ustubh Dwivedy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Users/Koustubh Dwivedy/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (4 pages, 273944 bytes).
 PDF statistics:
- 10 PDF objects out of 1000 (max. 8388607)
+ 32 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
